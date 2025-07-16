@@ -11,3 +11,6 @@ This value is proportional to how much PFAS was destroyed in that run, assuming 
 Think of it like this:
 If the intensity was high for a short time, or low for a long time, both contribute to the same area — total exposure or total gas release over time.
 
+Try this : https://auto-peak-detector-avmewytb4gnqgewmhbwcbi.streamlit.app/
+( Should have three columns seconds,ms(milliseconds),Intensity) 
+
